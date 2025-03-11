@@ -96,5 +96,5 @@ document.getElementById("registroForm").addEventListener("submit", function(even
 
 // Redireccionar el botón "Cancelar"
 document.getElementById("cancelarBtn").addEventListener("click", function() {
-    window.location.href = "./practica.html"; 
+    window.location.href = "./parcial.html"; 
 });

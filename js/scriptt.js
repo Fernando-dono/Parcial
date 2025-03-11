@@ -11,5 +11,5 @@ document.getElementById("signupBtn").addEventListener("click", function() {
 });
 
 document.getElementById("cancelBtn").addEventListener("click", function() {
-    document.location = "./practica.html"; // Cambia esto por la ruta real de tu página principal
+    document.location = "parcial.html"; // Cambia esto por la ruta real de tu página principal
 });
